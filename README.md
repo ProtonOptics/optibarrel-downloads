@@ -2,7 +2,7 @@
 
 | Software | macOS | Windows |
 |---|---|---|
-| **OptiBarrel 3.0** — Optical Lens Rings & Tube Designer | `OptiBarrel_macOS.zip` | `OptiBarrel_Windows.zip` |
+| **OptiBarrel 3.0** — Optical Lens Rings & Tube Designer | [OptiBarrel_macOS.zip](https://github.com/ProtonOptics/optibarrel-downloads/releases/latest/download/OptiBarrel_macOS.zip) | [OptiBarrel_Setup.exe](https://github.com/ProtonOptics/optibarrel-downloads/releases/latest/download/OptiBarrel_Setup.exe) |
 
 A serial key is required to use the software. Get a free trial key or buy a full license at [protonoptics.com](https://protonoptics.com/products/optical-lens-rings-tube-designer).
 
@@ -25,9 +25,9 @@ Use of the software is governed by its Software License Agreement (EULA). Please
 
 ### Installation — Windows
 
-1. Download the zip file, right-click it and choose **Extract All**. Keep the extracted folder whole: the program needs the files next to the `.exe`, so don't copy the `.exe` out on its own.
-2. Open the folder and double-click `OptiBarrel.exe`. To make it easier to find, right-click it and choose **Pin to Start**, or create a desktop shortcut.
-3. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**.
+1. Download `OptiBarrel_Setup.exe` and double-click it.
+2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**.
+3. Follow the installer. When it finishes, open OptiBarrel from the **Start** menu.
 4. Enter your serial key, tick the License Agreement checkbox, and click **Activate**.
 
 **Requirements:** Windows 10 or 11 (64-bit).
@@ -42,7 +42,7 @@ OptiBarrel includes a sample lens (Double Gauss). Open it from **Help → Open S
 
 | 软件 | macOS | Windows |
 |---|---|---|
-| **OptiBarrel 3.0** — 光学镜片隔圈与镜筒设计软件 | `OptiBarrel_macOS.zip` | `OptiBarrel_Windows.zip` |
+| **OptiBarrel 3.0** — 光学镜片隔圈与镜筒设计软件 | [OptiBarrel_macOS.zip](https://github.com/ProtonOptics/optibarrel-downloads/releases/latest/download/OptiBarrel_macOS.zip) | [OptiBarrel_Setup.exe](https://github.com/ProtonOptics/optibarrel-downloads/releases/latest/download/OptiBarrel_Setup.exe) |
 
 软件需要序列号才能使用。请在 [protonoptics.com](https://protonoptics.com/products/optical-lens-rings-tube-designer) 获取免费试用序列号或购买正式版。
 
@@ -65,9 +65,9 @@ OptiBarrel includes a sample lens (Double Gauss). Open it from **Help → Open S
 
 ### 安装 — Windows
 
-1. 下载 zip 文件，右键选择 **全部解压缩**。请保留整个解压后的文件夹：程序需要 `.exe` 旁边的文件，不要把 `.exe` 单独拷出来。
-2. 打开文件夹，双击 `OptiBarrel.exe`。为方便以后打开，可以右键选择 **固定到"开始"屏幕**，或创建桌面快捷方式。
-3. 如果出现 **"Windows 已保护你的电脑"**，点击 **更多信息 → 仍要运行**。
+1. 下载 `OptiBarrel_Setup.exe`，双击运行。
+2. 如果出现 **"Windows 已保护你的电脑"**，点击 **更多信息 → 仍要运行**。
+3. 按安装向导完成安装，之后从 **开始** 菜单打开 OptiBarrel。
 4. 输入序列号，勾选同意许可协议，点击 **激活**。
 
 **系统要求：** Windows 10 或 11（64 位）。
